@@ -9,6 +9,13 @@ html, body {
   margin: 20px;
   margin: 20px auto;
   background: pink;
+  border-radius: 100%;
+  
+}
+header{
 
+  font-size: 8vh;
+  color: pink;
+  font-family: monospace;
   
 }

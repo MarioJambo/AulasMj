@@ -1,5 +1,8 @@
-let caixa  = document.getElementById('caixa')
+var caixa  = document.getElementById('caixa')
+var button  = document.getElementById
 
 function mudaCor(){
-  if(docu)
+  if(caixa.style.background = 'pink'){
+    caixa.style.background = 'red'
+  }
 }
