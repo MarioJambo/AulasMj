@@ -1,0 +1,14 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.caixa{
+  width: 400px;
+  height: 400px;
+  margin: 20px;
+  margin: 20px auto;
+  background: pink;
+
+  
+}
